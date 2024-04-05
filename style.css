@@ -1,0 +1,141 @@
+header {
+    background-color: black;
+    color: white;
+}
+
+.logotipo-da-loja {
+    width: 3%;
+    margin-right: 180px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+
+.cabecalho-lista-item {
+    display: inline-block;
+    justify-content: center;
+    margin-left: 296px;
+    padding: 10px;
+}
+
+body {
+    background-color: rgb(244, 244, 136);
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+body img:hover{
+    background-color: aliceblue;
+}
+
+header li:active{
+    background-color: aliceblue;
+    color: black;
+}
+
+body section:first-child{
+    color:red;
+}
+
+h1 {
+    justify-content: center;
+    display: flex;
+    
+}
+
+.descricao-cabecalho{
+    justify-content: center;
+    display: flex;
+}
+
+.titulo-2 {
+    justify-content: center;
+    display: flex;
+}
+
+.secao-2{
+    justify-content: center;
+    display: flex;
+}
+
+.titulo-3 {
+    justify-content: center;
+    display: flex;
+    margin-top: 80px;
+}
+
+.redim-arduino {
+    width:25%;
+    display: inline;
+    padding: 30px;
+}
+
+.redim-multimetro {
+    width: 25%;
+    display: inline;
+    padding: 20px;
+}
+
+.redim-protoboard {
+    width: 25%;
+    display: inline;
+    padding: 120px;
+}
+
+.preco {
+    width: 25%;
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 80px;
+    text-align: center;
+}
+
+.redim-capacitor {
+    width: 15%;
+    display: inline;
+    padding: 30px;
+    margin-left: 60px;
+    margin-right: 40px;   
+}
+
+.redim-LDR {
+    width: 20%;
+    display: inline;
+    padding: 20px;
+    margin-left: 150px;   
+}
+
+.redim-LED {
+    width: 20%;
+    display: inline;
+    padding: 20px;
+    margin-left: 140px;
+}
+
+.preco-2{
+    width: 25%;
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 80px;
+    text-align: center;  
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.insta{
+    color: white;
+}
+
+body a:active{
+    background-color: aliceblue;
+    color: black;
+}
+
+.facebook {
+    color: white;
+}
+
